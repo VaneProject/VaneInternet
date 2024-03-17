@@ -1,0 +1,13 @@
+C:\Users\toram\RiderProjects\VaneInternet\VaneInternet\bin\Debug\VaneInternet.exe.config
+C:\Users\toram\RiderProjects\VaneInternet\VaneInternet\bin\Debug\VaneInternet.exe
+C:\Users\toram\RiderProjects\VaneInternet\VaneInternet\bin\Debug\VaneInternet.pdb
+C:\Users\toram\RiderProjects\VaneInternet\VaneInternet\obj\Debug\VaneInternet.csproj.AssemblyReference.cache
+C:\Users\toram\RiderProjects\VaneInternet\VaneInternet\obj\Debug\VaneInternet.Properties.Resources.resources
+C:\Users\toram\RiderProjects\VaneInternet\VaneInternet\obj\Debug\VaneInternet.csproj.GenerateResource.cache
+C:\Users\toram\RiderProjects\VaneInternet\VaneInternet\obj\Debug\VaneInternet.csproj.CoreCompileInputs.cache
+C:\Users\toram\RiderProjects\VaneInternet\VaneInternet\obj\Debug\VaneInternet.exe
+C:\Users\toram\RiderProjects\VaneInternet\VaneInternet\obj\Debug\VaneInternet.pdb
+C:\Users\toram\RiderProjects\VaneInternet\VaneInternet\obj\Debug\VaneInternet.Form1.resources
+C:\Users\toram\RiderProjects\VaneInternet\VaneInternet\obj\Debug\Interop.IWshRuntimeLibrary.dll
+C:\Users\toram\RiderProjects\VaneInternet\VaneInternet\obj\Debug\VaneInternet.csproj.ResolveComReference.cache
+C:\Users\toram\RiderProjects\VaneInternet\VaneInternet\bin\Debug\Interop.IWshRuntimeLibrary.dll
